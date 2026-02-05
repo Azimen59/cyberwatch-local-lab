@@ -1,4 +1,4 @@
-# Cyberwatch Local Lab
+# opencti ollama Local Lab
 
 *OpenCTI + Ollama + OpenClaw*
 
