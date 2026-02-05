@@ -59,7 +59,6 @@ These are only for local lab usage and **must be replaced** in any serious envir
 
 Clone the repository:
 
-```bash
 git clone https://github.com/Azimen59/cyberwatch-local-lab.git
 cd cyberwatch-local-lab
 
